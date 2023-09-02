@@ -1,0 +1,175 @@
+/*font link*/
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+/*css starts*/
+/*common css*/
+body{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   color: #555555;
+}
+.bld{
+    font-weight:700 !important;
+    color: #010101 !important;
+}
+
+/*header start */
+header{
+    padding-top: 50px;
+    background-color: #fcdb00 ;
+ }
+ .logo{}
+ .text_logo{
+    font-size: 30px;
+    float: right;
+ }
+ .menu ul li a{
+    padding-left: 60px !important;
+ }
+ .menu ul li a:hover{
+    color: #ffffff !important;
+ }
+/*<header end */
+/*banner carousel css*/
+.bnr_caro{
+   position: sticky;
+   padding-top: 53px;
+}
+.caro_icon{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+
+/*<banner start */
+
+.banner{
+    padding: 80px 0;
+    background-color: #fcdb00;
+}
+.ttl{
+    font-size: 32px;
+}
+.bnr{
+    padding: 58px ;
+}
+.slogan{
+    padding: 33px 78px 33px 0;
+    font-size: 20px;
+    color: #313841;
+
+}
+.details{
+    margin-right: 38px;
+}
+
+.icons{
+    margin-top: 43px;
+}
+.box_wt{
+    width: 316px;
+    height: 470px;
+    background-color: #ffffff;
+    position: relative;
+    border-radius: 21px;
+}
+.box_bl{
+    display: inline-flex;
+    width: 288px;
+    height: 382px;
+    background-color: #010101;
+    position: absolute;
+    top: 44px;
+    right: 14px;
+}
+.bnl{
+    width: 43px;
+    height: 43px;
+}
+.btl{
+    color: #fcdb00 !important;
+}
+.b_image{
+}
+
+/*<banner end */
+/*<features start */
+.features{
+    padding: 90px 0;
+    background-color: #ffffff;
+}
+.ftrs{
+    margin-top: 90px;
+}
+.fe_ttl{
+    font-size: 32px;
+}
+.fe_dtl{
+    margin: 20px 234px;
+    font-size: 20px;
+    color: #313841;
+}
+.f_block{
+    text-align: left;
+}
+.ftr_h2{
+    font-size: 22px;
+    color: #010101;
+}
+.ftr_post{
+    padding-right: 11px;
+}
+/*<features end */
+/*<contact form start */
+.contact{
+    padding: 90px 0;
+    background-color: #010101;
+}
+.con_ttl{
+    font-size: 32px;
+    color: #fcdb00 !important;
+}
+.con_post{
+    padding: 0 250px;
+    color: #898989;
+}
+.form{
+    padding: 30px 262px;
+    justify-content: center;
+}
+.submit{
+    padding: 8px 33px;
+    color: #010101;
+    background-color: #fcdb00;
+    border: none;
+}
+/*<contact form enter */
+/*footer start*/
+footer{
+    padding-bottom: 90px;
+    background-color: #010101;
+
+}
+
+.adrs{
+    padding-right: 51px;
+    color: #ffffff;
+}
+.ftr a{
+    list-style: none;
+    text-decoration: none;
+    color: #ffffff;
+}
+.pages{
+    margin: 0 29px;
+}
+.pages ul li{
+    list-style: none;
+}
+.pages ul li a{
+    
+    text-decoration: none;
+    color: #ffffff
+
+
+/*footer end*/
