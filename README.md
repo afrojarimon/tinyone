@@ -1,1 +1,1 @@
-for viewing:https://afrojarimon.github.io/tinyone/
+For viewing :https://afrojarimon.github.io/tinyone/
